@@ -1,1 +1,2 @@
 This is B file - first line added
+added 2bd line
